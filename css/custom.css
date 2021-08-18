@@ -470,8 +470,8 @@ div.main-menu-section div.menu nav.navbar ul.nav li ul.dropdown-menu.mega-dropdo
 }
 
 div.menu .dropdown-menu {
-    height: 400px;
-    width: 147.2%;
+    height: 100px;
+    width: 200px;
     top: 70px;
 }
 
