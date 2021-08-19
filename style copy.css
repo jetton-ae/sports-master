@@ -1560,8 +1560,7 @@
                 margin-bottom: 3vw;
             }
         }
-        
-        @media only screen and (min-width: 0px) and (max-width: 800px) {
+        /* @media only screen and (min-width: 0px) and (max-width: 800px) {
             .bigimg {
                 display: none;
             }
@@ -1574,7 +1573,7 @@
                 margin-left: -0.5vw;
             }
         }
-        
+
         @media only screen and (min-width: 801px) and (max-width: 1024px) {
             .bigimg {
                 display: none;
@@ -1588,7 +1587,7 @@
                 display: none;
             }
         }
-        
+
         @media only screen and (min-width: 1025px) {
             .bigimg {
                 display: block;
@@ -1601,6 +1600,12 @@
             .bigimg1 {
                 display: none;
             }
+        } */
+        
+        .bigimg {
+            display: block;
+            width: 96%;
+            margin-left: -0.5vw;
         }
         /* 商品介紹頁面 */
         /* =========ad======== */
