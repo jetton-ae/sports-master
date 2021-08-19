@@ -253,6 +253,32 @@ header {
     font-size: 15px;
 }
 
+.login1 li a i {
+    margin: 0 5px 0 0;
+    font-size: 15px;
+}
+
+.login1 li {
+    float: left;
+    margin: 0 0 0 10px;
+    font-weight: 500;
+}
+
+.login1 a {
+    padding: 9px 25px;
+    color: #fff;
+    font-size: 18px;
+    background: #3a92e6;
+    border-radius: 50px;
+    float: left;
+}
+
+.login1 a:hover,
+.login1 a:focus {
+    background: rgb(224, 57, 57);
+    color: #333;
+}
+
 .header-bottom {
     float: left;
     width: 100%;
