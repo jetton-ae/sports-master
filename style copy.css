@@ -1561,15 +1561,45 @@
             }
         }
         
-        .bigimg {
-            width: 96%;
-            margin-left: -0.5vw;
-        }
-        
         @media only screen and (min-width: 0px) and (max-width: 800px) {
             .bigimg {
-                width: 100%;
-                /* margin-left: -0.5vw; */
+                display: none;
+            }
+            .bigimg2 {
+                display: none;
+            }
+            .bigimg1 {
+                display: block;
+                width: 96%;
+                margin-left: -0.5vw;
+            }
+        }
+        
+        @media only screen and (min-width: 801px) and (max-width: 1024px) {
+            .bigimg {
+                display: none;
+            }
+            .bigimg2 {
+                display: block;
+                width: 96%;
+                margin-left: -0.5vw;
+            }
+            .bigimg1 {
+                display: none;
+            }
+        }
+        
+        @media only screen and (min-width: 1025px) {
+            .bigimg {
+                display: block;
+                width: 96%;
+                margin-left: -0.5vw;
+            }
+            .bigimg2 {
+                display: none;
+            }
+            .bigimg1 {
+                display: none;
             }
         }
         /* 商品介紹頁面 */
