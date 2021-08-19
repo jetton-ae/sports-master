@@ -1488,7 +1488,7 @@
         .producttext1 {
             width: 100%;
             height: auto;
-            margin-top: -5vw;
+            margin-top: -12vw;
             float: left;
             margin-bottom: 1vw;
             text-align: left;
@@ -1497,7 +1497,7 @@
         }
         
         .producttext ul {
-            width: 100%;
+            width: 105%;
             height: auto;
             float: left;
             /* margin-bottom: 5vw; */
