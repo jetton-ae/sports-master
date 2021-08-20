@@ -134,6 +134,7 @@ h1 {
 }
 
 .carousel-caption p {
+    text-shadow: none;
     margin-left: 300px;
     font-size: 15px;
     text-align: left;
