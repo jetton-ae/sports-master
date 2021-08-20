@@ -159,7 +159,7 @@ h1 {
 #carousel-example-generic .carousel-caption {
     position: absolute;
     right: 5%;
-    bottom: 0;
+    bottom: 15%;
     left: 0;
     z-index: 10;
     padding: 0;
@@ -646,6 +646,7 @@ div.full-slider .carousel-indicators {
 
 .full {
     float: left;
+    height: 100%;
     width: 100%;
     margin: 0;
     padding: 0;
@@ -791,6 +792,7 @@ div.full-slider .carousel-indicators {
     text-align: center;
     padding: 63px 0 62px;
     background: url('../images/實驗室720_320.jpg');
+    height: 100%;
     background-size: cover;
     color: #fff;
     background-repeat: no-repeat;
@@ -1240,7 +1242,6 @@ section.main-heading h2::after {
     text-align: center;
     min-height: 45px;
     line-height: 45px;
-    border-top: solid #222 1px;
     background: #003973;
     color: #fff;
 }
