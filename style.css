@@ -2198,3 +2198,14 @@ section.team h4 {
     font-weight: 500;
     margin-top: 10px !important;
 }
+
+.headertext h1 {
+    color: #00B395;
+    box-shadow: 0 1px #00B395;
+}
+
+.headertext1 {
+    text-align: center;
+    color: #00B395;
+    margin-bottom: 15px;
+}

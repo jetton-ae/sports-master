@@ -39,7 +39,7 @@ body {
 }
 
 .deepskyblue {
-    background-image: url('../images/bg1.png');
+    background-image: url('../images/輪播圖文1732_951_2.jpg');
 }
 
 .carousel-indicators {
@@ -184,7 +184,7 @@ header {
 .social-icons li a {
     height: 40px;
     width: 40px;
-    background: none;
+    background: #005AB3;
     border: 1px solid #fff;
     color: #fff;
     border-radius: 100%;
@@ -215,8 +215,8 @@ header {
 
 .social-icons li a:hover,
 .social-icons li a:focus {
-    border-color: #d8302f;
-    background: #d8302f;
+    border-color: #D4A418;
+    background: #D4A418;
     color: #fff !important;
 }
 
@@ -237,14 +237,14 @@ header {
     padding: 9px 25px;
     color: #fff;
     font-size: 13px;
-    background: #d8302f;
+    background: #005AB3;
     border-radius: 50px;
     float: left;
 }
 
 .login li a:hover,
 .login li a:focus {
-    background: #fff;
+    background: #D4A418;
     color: #333;
 }
 
@@ -268,15 +268,15 @@ header {
     padding: 9px 25px;
     color: #fff;
     font-size: 18px;
-    background: #3a92e6;
+    background: #005AB3;
     border-radius: 50px;
     float: left;
 }
 
 .login1 a:hover,
 .login1 a:focus {
-    background: rgb(224, 57, 57);
-    color: #333;
+    background: #00B395;
+    color: rgb(255, 255, 255);
 }
 
 .header-bottom {
@@ -418,6 +418,7 @@ header {
 .main-menu-section .navbar.navbar-inverse .navbar-collapse ul.nav.navbar-nav li a:hover,
 .main-menu-section .navbar.navbar-inverse .navbar-collapse ul.nav.navbar-nav li a:focus {
     border-color: #d8302f;
+    color: #005AB3;
 }
 
 .main-menu-section .navbar.navbar-inverse .navbar-collapse ul.nav.navbar-nav li a span.caret {
@@ -713,7 +714,7 @@ div.full-slider .carousel-indicators {
 .right-match-time {
     text-align: center;
     padding: 63px 0 62px;
-    background: url('../images/match-start-img.png');
+    background: url('../images/奶粉720_320.jpg');
     background-size: cover;
     color: #fff;
     background-repeat: no-repeat;
@@ -760,6 +761,52 @@ div.full-slider .carousel-indicators {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 
+.left-match-time {
+    text-align: center;
+    padding: 63px 0 62px;
+    background: url('../images/實驗室720_320.jpg');
+    background-size: cover;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    min-height: 220px;
+}
+
+.left-match-time h2 {
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 55px;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.left-match-time ul {
+    margin: 0 auto 0;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    display: inline-block;
+    padding: 10px 20px;
+    list-style: none;
+    float: none;
+    width: auto;
+}
+
+.left-match-time ul li {
+    font-size: 30px;
+    color: #fff;
+    float: left;
+    margin: 0 10px;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.left-match-time>span {
+    display: block;
+    font-size: 20px;
+    color: #fff;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
 
 /** .right-match-time::after {
      content: "";
@@ -794,7 +841,7 @@ div.menu div.search-bar .input-group-addon {
 
 footer#footer {
     min-height: auto;
-    background: #111;
+    background: #005AB3;
     float: left;
     width: 100%;
     padding: 0;
@@ -1113,7 +1160,7 @@ section.main-heading h2::after {
 
 .footer-links a:hover,
 .footer a:hover {
-    color: #d8302f !important;
+    color: #D4A418 !important;
 }
 
 .information h3 {
@@ -1168,7 +1215,7 @@ section.main-heading h2::after {
     min-height: 45px;
     line-height: 45px;
     border-top: solid #222 1px;
-    background: #111;
+    background: #005AB3;
     color: #fff;
 }
 
@@ -1184,7 +1231,18 @@ section.main-heading h2::after {
     float: left;
     width: 100%;
     min-height: 500px;
-    background-image: url('../images/about.png');
+    background-image: url('../images/系列圖文2186_696.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.foodsafe-inner-page-banner {
+    float: left;
+    width: 100%;
+    min-height: 500px;
+    background-image: url('../images/食在安全系列圖文2184_696.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1240,13 +1298,13 @@ section.main-heading h2::after {
 }
 
 .breadcrumb>.active {
-    color: #d8302f;
+    color: #D4A418;
 }
 
 .inner-information-text {
     float: left;
     width: 100%;
-    background: #111;
+    background: #005AB3;
     color: #fff;
 }
 
@@ -1442,7 +1500,7 @@ section#contant p {
 .theme-padding.middle-bg {
     padding-top: 100px;
     padding-bottom: 100px;
-    background-image: url(../images/sport-mate.png);
+    background-image: url(../images/國際大賞背景奶圖1920_793.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     position: relative;
@@ -1466,7 +1524,7 @@ section#contant p {
 
 .player-name {
     position: absolute;
-    background: #000;
+    background: #005AB3;
     text-align: left;
     bottom: 0;
     width: 100%;
@@ -1489,7 +1547,7 @@ section#contant p {
     left: auto;
     height: 100%;
     line-height: 58px;
-    background: #d8302f;
+    background: #00B395;
     color: #fff;
     width: 48px;
     border: 0;
@@ -1516,7 +1574,7 @@ section#contant p {
     position: absolute;
     bottom: 100%;
     left: 0;
-    background: #d8302f;
+    background: #00B395;
     z-index: 1;
     padding: 3px 20px 2px;
     text-transform: capitalize;
@@ -1532,7 +1590,7 @@ section#contant p {
     top: 1px;
     width: 0;
     height: 0;
-    border-bottom: 30px solid #d8302f;
+    border-bottom: 30px solid #00B395;
     border-right: 20px solid transparent;
 }
 
@@ -1573,7 +1631,7 @@ section#contant p {
 .social-icons.style-4 li a {
     height: 40px;
     width: 40px;
-    background: none;
+    background: #005AB3;
     border: 1px solid #fff;
     color: #fff;
     border-radius: 100%;
@@ -1616,7 +1674,7 @@ footer div.full p {
 .dark-section {
     float: left;
     width: 100%;
-    background: #000;
+    background: rgb(255, 255, 255);
     margin-top: 50px;
     min-height: auto;
     padding: 50px 0;
@@ -1667,7 +1725,17 @@ section.main-heading .dark-section h3 {
 }
 
 button.button {
-    background: #1c72ce;
+    background: #005AB3;
+    color: #fff;
+    border: none;
+    padding: 6px 20px;
+    border-radius: 50px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+button.button:hover {
+    background: #D4A418;
     color: #fff;
     border: none;
     padding: 6px 20px;
