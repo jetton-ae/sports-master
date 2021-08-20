@@ -117,9 +117,9 @@ h1 {
     font-size: 58px;
     font-weight: 700;
     text-shadow: none;
-    color: #fff;
+    color: #005AB3;
     text-align: left;
-    line-height: 52px;
+    line-height: 70px;
     letter-spacing: -2px;
 }
 
@@ -134,6 +134,7 @@ h1 {
 }
 
 .carousel-caption p {
+    margin-left: 300px;
     font-size: 15px;
     text-align: left;
     font-weight: 400;
@@ -285,8 +286,7 @@ header {
 }
 
 .login2 li {
-    float: left;
-    margin: 0 0 0 10px;
+    margin: 0 0 0 250px;
     font-weight: 500;
 }
 
