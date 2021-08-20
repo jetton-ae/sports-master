@@ -279,6 +279,32 @@ header {
     color: rgb(255, 255, 255);
 }
 
+.login2 li a i {
+    margin: 0 5px 0 0;
+    font-size: 15px;
+}
+
+.login2 li {
+    float: left;
+    margin: 0 0 0 10px;
+    font-weight: 500;
+}
+
+.login2 a {
+    padding: 9px 25px;
+    color: #fff;
+    font-size: 18px;
+    background: #005AB3;
+    border-radius: 50px;
+    float: left;
+}
+
+.login2 a:hover,
+.login2 a:focus {
+    background: #D4A418;
+    color: rgb(255, 255, 255);
+}
+
 .header-bottom {
     float: left;
     width: 100%;
@@ -1117,7 +1143,7 @@ section.main-heading h2::after {
     padding-bottom: 0;
     line-height: 20px;
     margin-bottom: 10px;
-    border-bottom: solid #333 1px;
+    border-bottom: solid rgb(255, 255, 255) 1px;
     padding-bottom: 15px;
     padding-top: 7px;
 }
@@ -1215,7 +1241,7 @@ section.main-heading h2::after {
     min-height: 45px;
     line-height: 45px;
     border-top: solid #222 1px;
-    background: #005AB3;
+    background: #003973;
     color: #fff;
 }
 
