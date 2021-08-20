@@ -34,7 +34,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
-@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&display=swap');
 
 /*------------------------------------------------------------------
     IMPORT FILES
@@ -2208,4 +2208,8 @@ section.team h4 {
     text-align: center;
     color: #00B395;
     margin-bottom: 15px;
+}
+
+.imgt {
+    margin: 0 -160px;
 }
