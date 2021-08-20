@@ -1249,6 +1249,17 @@ section.main-heading h2::after {
     position: relative;
 }
 
+.ad-inner-page-banner {
+    float: left;
+    width: 100%;
+    min-height: 500px;
+    background-image: url('../images/展覽與廣告系列圖文2184_696.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
 .inner-information {
     float: left;
     width: 100%;
