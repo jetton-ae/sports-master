@@ -1680,6 +1680,18 @@ section#contant p {
     font-size: 18px;
 }
 
+.social-icons.style-4 li a:hover {
+    height: 40px;
+    width: 40px;
+    background: #D4A418;
+    border: 1px solid #D4A418;
+    color: #fff;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 18px;
+}
+
 footer div.full p {
     text-align: left;
 }
