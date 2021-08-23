@@ -322,7 +322,7 @@ header {
 
 .menu {
     float: left;
-    width: 100%;
+    width: 30%;
     min-height: auto;
     background: #fff;
 }
@@ -2324,11 +2324,11 @@ span a.comment-reply-link {
     }
     .menu {
         float: left;
-        width: 100%;
+        width: 50%;
         min-height: auto;
         background: #fff;
         border-radius: 0;
-        padding: 0 20px;
+        /* padding: 0 20px; */
     }
     .main-menu-section .navbar.navbar-inverse {
         background: transparent;
