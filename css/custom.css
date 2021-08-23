@@ -40,6 +40,8 @@ body {
 
 .deepskyblue {
     background-image: url('../images/輪播圖文1732_951_2.jpg');
+    width: 100%;
+    height: auto;
 }
 
 .carousel-indicators {
@@ -52,8 +54,8 @@ body {
 }
 
 div.full-slider .carousel .item {
-    height: 100vh;
-    min-height: 100vh;
+    height: 50vw;
+    min-height: 50vw;
     width: 100%;
 }
 
