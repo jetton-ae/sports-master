@@ -1383,8 +1383,9 @@ section.main-heading h2::after {
 }
 
 #quote-carousel .carousel-indicators li {
-    width: 50px;
-    height: 50px;
+    background: #00B395;
+    width: 10px;
+    height: 10px;
     cursor: pointer;
     border: 1px solid #ccc;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
