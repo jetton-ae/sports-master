@@ -2372,6 +2372,9 @@ span a.comment-reply-link {
         padding: 9px 9px;
     }
     div.menu .dropdown-menu {
+        margin-left: 15vw;
+        width: auto;
+        background: #005AB3;
         display: none;
     }
     .news {
