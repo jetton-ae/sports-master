@@ -2213,3 +2213,35 @@ section.team h4 {
 .imgt {
     margin: 0 -180px;
 }
+
+.textalign {
+    text-align: right;
+}
+
+@media (max-width:768px) {
+    .slider-contant {
+        display: none;
+    }
+}
+
+@media (max-width:1024px) {
+    .slider-contant {
+        display: none;
+    }
+}
+
+.team-column>img {
+    width: 100%;
+}
+
+@media (max-width:768px) {
+    .imgt {
+        margin: 0;
+    }
+}
+
+@media (max-width:1024px) {
+    .imgt {
+        margin: 0;
+    }
+}
