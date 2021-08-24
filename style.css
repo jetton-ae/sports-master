@@ -2236,12 +2236,6 @@ section.team h4 {
 
 @media (max-width:768px) {
     .imgt {
-        margin: 0;
-    }
-}
-
-@media (max-width:1024px) {
-    .imgt {
-        margin: 0;
+        margin: 0 -15px;
     }
 }
