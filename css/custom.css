@@ -871,6 +871,7 @@ div.menu div.search-bar .input-group-addon {
 }
 
 footer#footer {
+    text-align: left;
     min-height: auto;
     background: #005AB3;
     float: left;

@@ -2187,8 +2187,7 @@
             margin: 0 -15px;
         }
     }
-    
-    @media (max-width:768px) {
+    /* @media (max-width:768px) {
         .cc {
             position: absolute;
             z-index: 99999;
@@ -2208,7 +2207,7 @@
             margin-left: 70vw;
         }
     }
-    
+
     @media (max-width: 1024px) {
         .cc {
             position: absolute;
@@ -2229,7 +2228,7 @@
             margin-left: 77vw;
         }
     }
-    
+
     @media (min-width: 1440px) {
         .cc {
             position: absolute;
@@ -2249,4 +2248,4 @@
             margin-top: -13.5vw;
             margin-left: 51vw;
         }
-    }
+    } */
