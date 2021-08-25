@@ -2230,23 +2230,23 @@
         }
     }
     
-    @media (max-width: 1440px) {
+    @media (min-width: 1440px) {
         .cc {
             position: absolute;
             z-index: 99999;
-            margin-top: -50vw;
-            margin-left: 45vw;
+            margin-top: -38vw;
+            margin-left: 35vw;
         }
         .cc1 {
             position: absolute;
             z-index: 99999;
-            margin-top: -18vw;
-            margin-left: 7vw;
+            margin-top: -13vw;
+            margin-left: 6vw;
         }
         .cc2 {
             position: absolute;
             z-index: 99999;
-            margin-top: -18vw;
-            margin-left: 70vw;
+            margin-top: -13.5vw;
+            margin-left: 53vw;
         }
     }
