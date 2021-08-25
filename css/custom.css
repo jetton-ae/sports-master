@@ -2278,7 +2278,7 @@ span a.comment-reply-link {
 
 /** responsive **/
 
-@media (max-width:896px) {
+@media (max-width:900px) {
     .header-top .right_top_section {
         display: none;
     }

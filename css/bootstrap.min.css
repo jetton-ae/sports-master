@@ -5051,7 +5051,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     overflow-y: auto
 }
 
-@media (min-width:768px) {
+@media (min-width:899px) {
     .navbar-collapse {
         width: auto;
         border-top: 0;
@@ -5194,7 +5194,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     margin-top: 4px
 }
 
-@media (min-width:768px) {
+@media (min-width:899px) {
     .navbar-toggle {
         display: none
     }
