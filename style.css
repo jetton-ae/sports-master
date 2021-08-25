@@ -2211,7 +2211,11 @@ section.team h4 {
 }
 
 .imgt {
-    margin: 0 -180px;
+    background: url('../images/奶粉720_320.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    /* margin: 0 -180px; */
 }
 
 .textalign {
