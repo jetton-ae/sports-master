@@ -2210,6 +2210,17 @@ section.team h4 {
     margin-bottom: 15px;
 }
 
+
+/* .imgt {
+    height: 320px;
+    background-size: cover;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    min-height: 220px;
+    background-image: url('../images/三角形圖文_1920_工作區域_1.jpg');
+} */
+
 .imgt {
     margin: 0 -180px;
 }
