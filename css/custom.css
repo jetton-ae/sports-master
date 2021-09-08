@@ -2544,3 +2544,7 @@ span a.comment-reply-link {
         min-height: auto;
     }
 }
+
+.h3pos {
+    margin-top: 50px;
+}
