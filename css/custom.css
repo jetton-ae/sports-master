@@ -1337,16 +1337,19 @@ section.main-heading h2::after {
 
 .breadcrumb li {
     color: #fff;
+    font-weight: bolder;
 }
 
 .breadcrumb li a {
     font-size: 22px;
     color: #fff;
+    font-weight: bolder;
 }
 
 .breadcrumb>.active {
     font-size: 22px;
     color: #D4A418;
+    font-weight: bolder;
 }
 
 .inner-information-text {
