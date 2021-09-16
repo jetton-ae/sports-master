@@ -240,10 +240,11 @@ header {
 .login li a {
     padding: 9px 25px;
     color: #fff;
-    font-size: 13px;
+    font-size: 15px;
     background: #005AB3;
     border-radius: 50px;
     float: left;
+    font-weight: bolder;
 }
 
 .login li a:hover,
@@ -516,8 +517,9 @@ header {
 div.main-menu-section div.menu nav.navbar ul.nav li ul.dropdown-menu.mega-dropdown-menu ul li a {
     text-transform: none;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     margin: 5px 0;
+    font-weight: bolder;
 }
 
 #menCollection {
@@ -526,7 +528,7 @@ div.main-menu-section div.menu nav.navbar ul.nav li ul.dropdown-menu.mega-dropdo
 }
 
 div.menu .dropdown-menu {
-    height: 100px;
+    height: auto;
     width: 200px;
 }
 
@@ -539,6 +541,8 @@ div.menu .dropdown-menu {
     opacity: 1;
     border: none;
     box-shadow: none;
+    font-size: 20px;
+    font-weight: bolder;
 }
 
 .navbar.navbar-inverse .navbar-collapse ul.nav.navbar-nav li a:hover,
@@ -1126,7 +1130,7 @@ section.main-heading h2::after {
 }
 
 .footer-widget p {
-    font-size: 14px;
+    font-size: 18px;
     color: #fff;
     margin: 20px 0 10px;
     font-weight: 300;
@@ -1237,7 +1241,7 @@ section.main-heading h2::after {
     padding-left: 35px;
     margin-bottom: 15px;
     font-weight: 300;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .footer-bottom {
@@ -1336,10 +1340,12 @@ section.main-heading h2::after {
 }
 
 .breadcrumb li a {
+    font-size: 22px;
     color: #fff;
 }
 
 .breadcrumb>.active {
+    font-size: 22px;
     color: #D4A418;
 }
 
@@ -1353,7 +1359,7 @@ section.main-heading h2::after {
 .inner-information-text h3 {
     color: #fff;
     margin: 0;
-    padding: 10px 0;
+    padding: 15px 0 10px;
     float: left;
     text-transform: uppercase;
 }
@@ -1807,7 +1813,7 @@ button.button:hover {
 
 .footer-menu li {
     font-weight: 300;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .footer-logo img {
