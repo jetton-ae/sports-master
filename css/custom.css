@@ -651,6 +651,7 @@ div.full-slider .carousel-indicators {
 }
 
 .full {
+    position: relative;
     float: left;
     height: 100%;
     width: 100%;
@@ -754,10 +755,6 @@ div.full-slider .carousel-indicators {
     background-repeat: no-repeat;
     background-position: center bottom;
     min-height: 220px;
-}
-
-.full {
-    position: relative;
 }
 
 .right-match-time h2 {
